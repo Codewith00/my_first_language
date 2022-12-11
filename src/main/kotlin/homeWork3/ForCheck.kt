@@ -14,7 +14,11 @@ fun main() {
     firstName = "Силвестер"
     lastName = "Сталоне"
     isChild = (height < 150 || weight < 40)
-    info  = "Имя - $firstName ,Фамилия - $lastName, Рост - $height, Вес - $weight, Ребенок? - $isChild"
+    info  = """Имя - $firstName 
+        |Фамилия - $lastName
+        |Рост - $height
+        |Вес - $weight
+        |Ребенок? - $isChild""".trimMargin()
     println(info)
 
     weight = 35F
