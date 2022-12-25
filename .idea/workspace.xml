@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="545228f2-5768-44a2-a0e7-8513ad29d278" name="Changes" comment="Save 09.12 2">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="545228f2-5768-44a2-a0e7-8513ad29d278" name="Changes" comment="Круто быть программистом">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/homeWork2/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/homeWork2/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/homeWork4/ForCheck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/homeWork4/ForCheck.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +45,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/kotlin/06_Collections",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MainKt (5)">
+  <component name="RunManager" selected="Kotlin.ForCheckKt (1)">
+    <configuration name="ExamlpeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork4.ExamlpeKt" />
+      <module name="TEST.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForCheckKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork4.ForCheckKt" />
+      <module name="TEST.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForCheckKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork3.ForCheckKt" />
+      <module name="TEST.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWork3.MainKt" />
       <module name="TEST.main" />
@@ -56,29 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork4.MainKt" />
-      <module name="TEST.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork5.MainKt" />
-      <module name="TEST.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork6.MainKt" />
-      <module name="TEST.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (5)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork7.MainKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork2.MainKt" />
       <module name="TEST.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (5)" />
-        <item itemvalue="Kotlin.MainKt (4)" />
-        <item itemvalue="Kotlin.MainKt (3)" />
-        <item itemvalue="Kotlin.MainKt (2)" />
+        <item itemvalue="Kotlin.ForCheckKt (1)" />
+        <item itemvalue="Kotlin.ExamlpeKt" />
+        <item itemvalue="Kotlin.ForCheckKt" />
         <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +118,42 @@
       <option name="project" value="LOCAL" />
       <updated>1670590973084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Вот как)">
+      <created>1670596074524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670596074524</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Обновление 1.1">
+      <created>1670601619441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670601619441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Обновление 1.2">
+      <created>1670604605017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670604605017</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Круто быть программистом">
+      <created>1670660190698</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670660190698</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Круто быть программистом">
+      <created>1670660333996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670660333996</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +170,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Save 09.12" />
     <MESSAGE value="Save 09.12 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save 09.12 2" />
+    <MESSAGE value="Вот как)" />
+    <MESSAGE value="Обновление 1.1" />
+    <MESSAGE value="Обновление 1.2" />
+    <MESSAGE value="Круто быть программистом" />
+    <option name="LAST_COMMIT_MESSAGE" value="Круто быть программистом" />
   </component>
 </project>
